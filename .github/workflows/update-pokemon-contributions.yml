@@ -1,4 +1,4 @@
-name: Atualizar Pokedex de contribuicoes
+name: Atualizar card PokeDev
 
 on:
   schedule:
@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: pokemon-contributions
+  group: pokedev-card
   cancel-in-progress: true
 
 jobs:
@@ -47,5 +47,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/pokemon-contributions.svg
-          git commit -m "chore: update pokemon contribution card"
+          git commit -m "chore: update PokeDev card"
           git push

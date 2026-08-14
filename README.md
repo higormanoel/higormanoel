@@ -29,6 +29,7 @@ Sou designer e diretor de arte com mais de **10 anos de experiência** em brandi
 
 | Projeto | O que ele demonstra | Stack |
 | --- | --- | --- |
+| [**PokeDev**](https://github.com/higormanoel/pokedev) | Card de contribuições com dados reais, pixel art original e animação em SVG. | JavaScript · SVG · GitHub Actions |
 | [**Brand Manual PDF**](https://github.com/higormanoel/brand-manual-pdf) | Geração de manuais de marca editoriais em PDF, combinando design, automação e documentação. | HTML · CSS · Chrome |
 | [**Nubank Dash**](https://github.com/higormanoel/nubank-dash) | PWA de finanças pessoais com importação de faturas e experiência pensada para mobile. | React · Vite · JavaScript |
 | [**Workout PDF Generator**](https://github.com/higormanoel/workout-pdf-generator) | Gerador de treinos em PDF com direção visual, paleta automática e links interativos. | Python · PDF · Automação |
@@ -52,13 +53,15 @@ Sou designer e diretor de arte com mais de **10 anos de experiência** em brandi
 
 </div>
 
-## Pokédex de contribuições
+## PokeDev — contribuições em pixel art
 
-Minha atividade pública dos últimos 12 meses, transformada em um card pixel art que atualiza automaticamente.
+Minha atividade pública dos últimos 12 meses, transformada em um card pixel art com Charizard que atualiza automaticamente.
 
 <div align="center">
-  <img src="./assets/pokemon-contributions.svg" alt="Pokédex de contribuições de Higor Manoel com total de commits públicos, contribuições e calendário de atividade" width="100%" />
+  <img src="./assets/pokemon-contributions.svg" alt="PokeDev de Higor Manoel com Charizard em pixel art, total de commits públicos, contribuições e calendário de atividade" width="100%" />
 </div>
+
+<sub>Projeto original disponível em <a href="https://github.com/higormanoel/pokedev"><strong>higormanoel/pokedev</strong></a>.</sub>
 
 <sub>O card contabiliza commits públicos e contribuições reconhecidas pelo GitHub. Atividades privadas só aparecem quando a visibilidade de contribuições privadas está habilitada no perfil.</sub>
 
